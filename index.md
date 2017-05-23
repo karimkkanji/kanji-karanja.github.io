@@ -1,4 +1,4 @@
-### About Karim K. Kanji
+# About Karim K. Kanji
 
 ## Educational Background:
 ##### Primary education:
@@ -11,11 +11,14 @@ Currently persuing a Bachelors Degree of Science in Information Technology at Ma
 
 
 ## Passions:
-Coding in Java, C++, PHP
-Designing websites and apps
-Bike Riding and Hiking
-Swimming
+Coding in Java, C++, PHP, Ruby, Batch</br>
+Designing websites and apps</br>
+Bike Riding and Hiking</br>
+Swimming</br>
 
 ## Other skills:
 I have undergone training in Driving and also possess a driver's Licence
+
+## Employment Status
+**Currently working** as the managing Director of [Cryosoft Corporation](http://www.cryosoft.co.ke)
 
