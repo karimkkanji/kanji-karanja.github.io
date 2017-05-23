@@ -1,9 +1,9 @@
 # About Karim K. Kanji
 
 ## Contact Me:
-**Telegram:** [CLick this link](https://t.me/kanji_karanja)
-**Whatsapp:** +254-703-756-325
-**Email:** karimkanji101@gmail.com; karimkanji101@hotmail.com 
+**Telegram:** [CLick this link](https://t.me/kanji_karanja) </br>
+**Whatsapp:** +254-703-756-325</br>
+**Email:** karimkanji101@gmail.com; karimkanji101@hotmail.com </br>
 **github** [@kanji-karanja](https://github.com/kanji-karanja)
 
 
