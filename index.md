@@ -1,5 +1,12 @@
 # About Karim K. Kanji
 
+## Contact Me:
+**Telegram:** [CLick this link](https://t.me/kanji_karanja)
+**Whatsapp:** +254-703-756-325
+**Email:** karimkanji101@gmail.com; karimkanji101@hotmail.com 
+**github** [@kanji-karanja](https://github.com/kanji-karanja)
+
+
 ## Educational Background:
 ##### Primary education:
 Schooled at Wakah Academy one from 2002-2011. Completed KCPE attaining a grade **A-** which was 414 marks out of 500.
