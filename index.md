@@ -1,9 +1,12 @@
 # About Karim K. Kanji
 
 ## Contact Me:
-**Telegram:** [CLick this link](https://t.me/kanji_karanja) </br>
-**Whatsapp:** +254-703-756-325</br>
-**Email:** karimkanji101@gmail.com; karimkanji101@hotmail.com </br>
+**Telegram:** [Click this link](https://t.me/kanji_karanja)
+
+**Whatsapp:** +254-703-756-325
+
+**Email:** karimkanji101@gmail.com; karimkanji101@hotmail.com
+
 **github** [@kanji-karanja](https://github.com/kanji-karanja)
 
 
@@ -18,10 +21,13 @@ Currently persuing a Bachelors Degree of Science in Information Technology at Ma
 
 
 ## Passions:
-Coding in Java, C++, PHP, Ruby, Batch</br>
-Designing websites and apps</br>
-Bike Riding and Hiking</br>
-Swimming</br>
+Coding in Java, C++, PHP, Ruby, Batch
+
+Designing websites and apps
+
+Bike Riding and Hiking
+
+Swimming
 
 ## Other skills:
 I have undergone training in Driving and also possess a driver's Licence
