@@ -3,9 +3,9 @@
 ## Contact Me:
 **Telegram:** [Click this link](https://t.me/cayman_ke)
 
-**Whatsapp:** +254-703-756-325(tel:+254703756325)
+**Whatsapp:** +254-703-756-325
 
-**Email:** karimkanji101@gmail.com;(emailto:karimkanji101@hotmail.com)
+**Email:** karimkanji101@gmail.com
 
 **github** [@kanji-karanja](https://github.com/kanji-karanja)
 
