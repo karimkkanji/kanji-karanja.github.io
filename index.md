@@ -1,5 +1,3 @@
-# About Karim K. Kanji
-
 ## Contact Me:
 **Telegram:** [Click this link](https://t.me/cayman_ke)
 
@@ -19,19 +17,18 @@ As from 2012-2015, attended Kiambu High School. Complete KCSE attaining an overa
 Completed a training course on MIT mobile application Development and Windows phone app Development in January-June 2016.
 Currently persuing a Bachelors Degree of Science in Information Technology at Maseno University.
 
+## Skills
+Proficient in java, JavaScript and PHP languages. 
+
+Proficient in the following frameworks: React.js, bootstrap and Laravel
 
 ## Passions:
-Coding in Java, C++, PHP, Ruby, Batch
-
 Designing websites and apps
 
 Bike Riding and Hiking
 
 Swimming
 
-## Other skills:
-I have undergone training in Driving and also possess a driver's Licence
-
 ## Employment Status
-**Currently working** as the managing Director of [Cryosoft Corporation](http://www.cryosoft.co.ke)
+**Currently working** as a freelancer and consulting at [bettingtipske.co.ke](https://bettingtipske.co.ke) 
 
