@@ -1,9 +1,9 @@
 ## Contact Me:
-**Telegram:** [Click this link](https://t.me/cayman_ke)
+**Telegram:** [@the_devking](https://t.me/the_devking)
 
-**Whatsapp:** +254-703-756-325
+**Whatsapp:** +254 703 756 325
 
-**Email:** karimkanji101@gmail.com
+**Email:** karimkkanji@gmail.com
 
 **github** [@kanji-karanja](https://github.com/kanji-karanja)
 
@@ -23,11 +23,9 @@ Proficient in java, JavaScript and PHP languages.
 Proficient in the following frameworks: React.js, bootstrap and Laravel
 
 ## Passions:
-Designing websites and apps
-
-Bike Riding and Hiking
-
-Swimming
+Designing websites and apps. 
+Bike Riding and Hiking. 
+Swimming. 
 
 ## Employment Status
 **Currently working** as a freelancer and consulting at [bettingtipske.co.ke](https://bettingtipske.co.ke) 
