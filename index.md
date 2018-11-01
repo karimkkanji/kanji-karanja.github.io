@@ -7,6 +7,8 @@
 
 **github** [@kanji-karanja](https://github.com/kanji-karanja)
 
+## Experience
+**2018** HI4Kenya bootcamp. Worked on Metadata Dictionary Application for DHIS2 instance using React.js. The repository can be found [here](https://github.com/kanji-karanja/MetaDataDHIS2) and the documentation [here](https://metadatadhis2.readthedocs.io/en/latest/).
 
 ## Educational Background:
 ##### Primary education:
@@ -18,15 +20,15 @@ Completed a training course on MIT mobile application Development and Windows ph
 Currently persuing a Bachelors Degree of Science in Information Technology at Maseno University.
 
 ## Skills
-Proficient in java, JavaScript and PHP languages. 
+Proficient in java, JavaScript and PHP. 
 
-Proficient in the following frameworks: React.js, bootstrap and Laravel
+Proficient in the following frameworks: React.js, bootstrap and Laravel.
 
-## Passions:
-Designing websites and apps. 
-Bike Riding and Hiking. 
+## Hobbies and Passions:
+Bike Riding.
+Hiking.
 Swimming. 
 
 ## Employment Status
-**Currently working** as a freelancer and consulting at [bettingtipske.co.ke](https://bettingtipske.co.ke) 
+**Currently working** as a freelancer and consulting at [bettingtipske.co.ke](https://bettingtipske.co.ke) as the senior web developer and database administrator.
 
