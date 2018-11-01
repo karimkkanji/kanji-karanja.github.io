@@ -1,6 +1,8 @@
 ## Bio
 Full name: Karim Karanja Kanji
+
 Nationality: Kenyan
+
 Linguistics: English, Kiswahili
 
 ## Contacts:
