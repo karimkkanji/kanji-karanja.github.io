@@ -22,13 +22,13 @@ Linguistics: English, Kiswahili
 **2018** HI4Kenya bootcamp. Worked on Metadata Dictionary Application for DHIS2 instance using React.js. The repository can be found [here](https://github.com/kanji-karanja/MetaDataDHIS2) and the documentation [here](https://metadatadhis2.readthedocs.io/en/latest/).
 
 ## Educational Background:
-##### Primary education:
-Schooled at Wakah Academy one from 2002-2011. Completed KCPE attaining a grade **A-** which was 414 marks out of 500.
-##### Secondary education:
-As from 2012-2015, attended Kiambu High School. Complete KCSE attaining an overall grade of **A-**
 ##### Tertiary education:
 Completed a training course on MIT mobile application Development and Windows phone app Development in January-June 2016.
 Currently persuing a Bachelors Degree of Science in Information Technology at Maseno University.
+##### Secondary education:
+As from 2012-2015, attended Kiambu High School. Complete KCSE attaining an overall grade of **A-**
+##### Primary education:
+Schooled at Wakah Academy one from 2002-2011. Completed KCPE attaining a grade **A-** which was 414 marks out of 500.
 
 ## Skills
 ### Java
